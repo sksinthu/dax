@@ -1,0 +1,43 @@
+
+.hero {
+  background-color:#FFF7D4;
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .hero-content h1 span {
+    color: #f39c12;
+  }
+  
+  .hero-content p {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #777;
+  }
+  
+  .get-started-btn {
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+
+  .hero-images{
+    max-width: 50%;
+    
+  }
+  
